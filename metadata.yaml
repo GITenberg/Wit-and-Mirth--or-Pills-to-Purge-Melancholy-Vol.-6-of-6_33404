@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6632
     wikipedia: http://en.wikipedia.org/wiki/Thomas_d'Urfey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33404#Wit-and-Mirth--or-Pills-to-Purge-Melancholy-Vol.-6-of-6
 gutenberg_issued: '2010-08-10'
 gutenberg_type: Text
 identifiers:
